@@ -1,0 +1,7 @@
+{
+  "name": "Industrial Workflow Reconstructor",
+  "description": "An AI-powered tool for industrial engineers to transform legacy software screenshots into actionable SOPs and walkthrough scripts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
